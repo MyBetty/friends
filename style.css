@@ -1,0 +1,10 @@
+.tete{
+    padding: 10px;
+    margin-bottom: 60px;
+}
+
+.footer{
+    margin-top: 60px;
+    height: 100px;
+    clip-path: polygon(50% 0%, 98% 44%, 93% 72%, 100% 100%, 0 100%, 14% 64%, 0 43%);
+}
